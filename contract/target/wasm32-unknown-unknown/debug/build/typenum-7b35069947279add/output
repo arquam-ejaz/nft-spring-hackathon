@@ -1,0 +1,2 @@
+cargo:rustc-env=TYPENUM_BUILD_CONSTS=/mnt/e/NEAR Projects/nft-tutorial/nft-spring-hackathon/contract/target/wasm32-unknown-unknown/debug/build/typenum-7b35069947279add/out/consts.rs
+cargo:rustc-env=TYPENUM_BUILD_OP=/mnt/e/NEAR Projects/nft-tutorial/nft-spring-hackathon/contract/target/wasm32-unknown-unknown/debug/build/typenum-7b35069947279add/out/op.rs
