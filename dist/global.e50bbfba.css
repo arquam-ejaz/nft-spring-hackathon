@@ -162,9 +162,9 @@ aside footer {
 aside footer *:first-child {
   color: var(--success);
 }
-aside footer *:last-child {
+/* aside footer *:last-child {
   color: var(--gray);
-}
+} */
 @keyframes notify {
   0% { transform: translateY(10em) }
   5% { transform: translateY(0) }
